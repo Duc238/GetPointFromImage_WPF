@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPointFromImage", "GetPointFromImage\GetPointFromImage.csproj", "{AA238D88-E938-4B5E-A67E-0BFA1E60C1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA238D88-E938-4B5E-A67E-0BFA1E60C1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA238D88-E938-4B5E-A67E-0BFA1E60C1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA238D88-E938-4B5E-A67E-0BFA1E60C1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA238D88-E938-4B5E-A67E-0BFA1E60C1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF44ABDE-5E62-455E-8FE3-80F81503AA95}
+	EndGlobalSection
+EndGlobal
